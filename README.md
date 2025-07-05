@@ -1,5 +1,14 @@
 # Food sharing recipe 
 
+## Screenshots 
+![website1](https://github.com/user-attachments/assets/7c3767f4-3502-4a59-8555-674ca2883e55)
+
+![website2](https://github.com/user-attachments/assets/b4527f7a-3fee-4d80-9397-08b766f5c3cd)
+
+![website3](https://github.com/user-attachments/assets/c429b939-20c0-4c42-888b-39544dea8785)
+
+![website4](https://github.com/user-attachments/assets/43edac97-df74-4ba7-a4c3-d2844d8f6ee6)
+
 ## Features
 1. Recipe Management: Create, edit, and delete your recipes. 
 2. Recipe Discovery: Browse and search for recipes shared by other users.
